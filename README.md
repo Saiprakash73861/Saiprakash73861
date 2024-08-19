@@ -54,5 +54,5 @@ If you're looking for a dedicated problem solver who never gets demotivated by f
 
 ---
 
-![Let's Connect](https://user-images.githubusercontent.com/123456789/123456789/connect_with_me.png)
+![Let's Connect](https://github.com/Saiprakash73861)
 
