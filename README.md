@@ -4,8 +4,6 @@
 
 ---
 
-![Data Science](https://user-images.githubusercontent.com/123456789/123456789/data_science_banner.jpg)
-
 I am an ambitious and self-motivated individual, passionate about leveraging data to derive actionable insights and solve complex problems. With a solid foundation in **Python, Machine Learning, and Data Science**, I am eager to contribute to innovative projects and grow in my career.
 
 ### 🚀 **About Me**
@@ -37,7 +35,6 @@ I am an ambitious and self-motivated individual, passionate about leveraging dat
 - Enhanced model performance by **10%** through strategic variable transformation
 - Created insightful data visualizations using **Matplotlib** and **Seaborn**
 
-![Bank Loan Analysis](https://user-images.githubusercontent.com/123456789/123456789/bank_loan_analysis.png)
 
 ### 🌐 **Connect with Me**
 
@@ -54,5 +51,5 @@ If you're looking for a dedicated problem solver who never gets demotivated by f
 
 ---
 
-![Let's Connect](https://github.com/Saiprakash73861)
+[Let's Connect](https://github.com/Saiprakash73861)
 
