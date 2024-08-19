@@ -41,8 +41,8 @@ I am an ambitious and self-motivated individual, passionate about leveraging dat
 
 ### 🌐 **Connect with Me**
 
-- **Discord:** (https://discord.com/saiprakashdevidi_18396)
 - **LinkedIn:** (www.linkedin.com/in/sai-prakash-devidi-62baa725b)
+- **Discord:** (https://discord.com/saiprakashdevidi_18396)
 - **Twitter:** (https://twitter.com/@SaiPrakash738)
 
 ---
